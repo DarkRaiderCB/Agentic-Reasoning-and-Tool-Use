@@ -114,7 +114,9 @@ The above limitations are primarily due to rule based approach, and can be mitig
 ---
 
 ## **Final Thoughts**
-This **mockup prototype** lays the groundwork for an **AI-powered shopping assistant** with structured tool-based reasoning. The present rule-based approach aligns with the assignment requirements. The present approach, however, is good enough to define the workflow and pipeline for a possible LLM-based variant too.
+This **mockup prototype** lays the groundwork for an **AI-powered shopping assistant** with structured tool-based reasoning. The present rule-based approach aligns with the assignment requirements.
+
+Additionally, the present approach, however, is good enough to define the workflow and pipeline for a possible LLM-based variant too.
 
 ---
 **Author:** Sanyog Mishra  
